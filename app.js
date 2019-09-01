@@ -90,6 +90,7 @@ document.getElementById('book-list').addEventListener('click',function(e){
      ui.deleteBook(e.target);
 
      ui.showalert('Book removed','success');
+     
     e.preventDefault();
 
 });
