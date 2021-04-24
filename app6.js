@@ -20,7 +20,7 @@ class UI{
         `;
 
         list.appendChild(row);
-
+        
     }
 
     showAlert(message,className){
